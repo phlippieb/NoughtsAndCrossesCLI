@@ -7,7 +7,8 @@ let package = Package(
     name: "CLI",
     dependencies: [
         .package(
-            path: "../GameEngine"),
+            url: "https://github.com/phlippieb/NoughtsAndCrossesGameEngine.git",
+            from: "1.0.0")
     ],
 
     targets: [

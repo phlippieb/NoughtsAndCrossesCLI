@@ -29,6 +29,15 @@
         }
       },
       {
+        "package": "GameEngine",
+        "repositoryURL": "https://github.com/phlippieb/NoughtsAndCrossesGameEngine.git",
+        "state": {
+          "branch": null,
+          "revision": "e64bed251cd97a110ea25587b64448ac9adbd632",
+          "version": "1.0.0"
+        }
+      },
+      {
         "package": "Quick",
         "repositoryURL": "https://github.com/Quick/Quick.git",
         "state": {
